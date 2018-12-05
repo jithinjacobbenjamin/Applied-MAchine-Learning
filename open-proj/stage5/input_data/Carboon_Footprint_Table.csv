@@ -1,0 +1,352 @@
+,Activity,Per,variable,value
+0,Household heating => 70F,hour ,solar powered  water heater,
+1,Household heating < 70F,hour ,solar powered  water heater,
+2,Use of heat pump,hour ,solar powered  water heater,
+3,Use of air conditioner ,hour ,solar powered  water heater,
+4,shower - short,activity,solar powered  water heater,1.2e-05
+5,shower - long (> 3 min),activity,solar powered  water heater,1.7e-05
+6,bath,activity,solar powered  water heater,8.8e-05
+7,wash-up,activity,solar powered  water heater,4e-06
+8,use of dishwasher,activity,solar powered  water heater,2.5e-05
+9,use of clothes washer,activity,solar powered  water heater,3.3e-05
+10,use of clothes dryer ,activity,solar powered  water heater,
+11,use of cooking range,activity,solar powered  water heater,
+12,use of  oven,activity,solar powered  water heater,
+13,use of self-clean feature of electric oven,activity,solar powered  water heater,
+14,Small kitchen applicance in the home,activity,solar powered  water heater,
+15,TV/computer use,hour ,solar powered  water heater,
+16,air travel - large plane,100 miles,solar powered  water heater,
+17,air travel - small  plane (<50 seats) ,100 miles,solar powered  water heater,
+18,car trips- self only,mile  ,solar powered  water heater,
+19,car trips - driver and self,mile  ,solar powered  water heater,
+20,car trips - 2+ people with multiple end points,mile  ,solar powered  water heater,
+21,trips using public ground transportation,mile  ,solar powered  water heater,
+22,bags of garbage disposed,per bag,solar powered  water heater,
+23,bags of recycling deposited (negative CF),per bag,solar powered  water heater,
+24,bags of compost deposited (negative CF),per bag,solar powered  water heater,
+25,hazardous or electric items disposed,per item,solar powered  water heater,
+26,large items disposed,per item,solar powered  water heater,
+27,Household heating => 70F,hour ,gas water heater,
+28,Household heating < 70F,hour ,gas water heater,
+29,Use of heat pump,hour ,gas water heater,
+30,Use of air conditioner ,hour ,gas water heater,
+31,shower - short,activity,gas water heater,0.000102
+32,shower - long (> 3 min),activity,gas water heater,0.000149
+33,bath,activity,gas water heater,0.000254
+34,wash-up,activity,gas water heater,4.2e-05
+35,use of dishwasher,activity,gas water heater,0.000165
+36,use of clothes washer,activity,gas water heater,0.000199
+37,use of clothes dryer ,activity,gas water heater,
+38,use of cooking range,activity,gas water heater,
+39,use of  oven,activity,gas water heater,
+40,use of self-clean feature of electric oven,activity,gas water heater,
+41,Small kitchen applicance in the home,activity,gas water heater,
+42,TV/computer use,hour ,gas water heater,
+43,air travel - large plane,100 miles,gas water heater,
+44,air travel - small  plane (<50 seats) ,100 miles,gas water heater,
+45,car trips- self only,mile  ,gas water heater,
+46,car trips - driver and self,mile  ,gas water heater,
+47,car trips - 2+ people with multiple end points,mile  ,gas water heater,
+48,trips using public ground transportation,mile  ,gas water heater,
+49,bags of garbage disposed,per bag,gas water heater,
+50,bags of recycling deposited (negative CF),per bag,gas water heater,
+51,bags of compost deposited (negative CF),per bag,gas water heater,
+52,hazardous or electric items disposed,per item,gas water heater,
+53,large items disposed,per item,gas water heater,
+54,Household heating => 70F,hour ,electric water heater - peak hours,
+55,Household heating < 70F,hour ,electric water heater - peak hours,
+56,Use of heat pump,hour ,electric water heater - peak hours,
+57,Use of air conditioner ,hour ,electric water heater - peak hours,
+58,shower - short,activity,electric water heater - peak hours,0.000232
+59,shower - long (> 3 min),activity,electric water heater - peak hours,0.000354
+60,bath,activity,electric water heater - peak hours,0.000412
+61,wash-up,activity,electric water heater - peak hours,6.7e-05
+62,use of dishwasher,activity,electric water heater - peak hours,0.000398
+63,use of clothes washer,activity,electric water heater - peak hours,0.000433
+64,use of clothes dryer ,activity,electric water heater - peak hours,
+65,use of cooking range,activity,electric water heater - peak hours,
+66,use of  oven,activity,electric water heater - peak hours,
+67,use of self-clean feature of electric oven,activity,electric water heater - peak hours,
+68,Small kitchen applicance in the home,activity,electric water heater - peak hours,
+69,TV/computer use,hour ,electric water heater - peak hours,
+70,air travel - large plane,100 miles,electric water heater - peak hours,
+71,air travel - small  plane (<50 seats) ,100 miles,electric water heater - peak hours,
+72,car trips- self only,mile  ,electric water heater - peak hours,
+73,car trips - driver and self,mile  ,electric water heater - peak hours,
+74,car trips - 2+ people with multiple end points,mile  ,electric water heater - peak hours,
+75,trips using public ground transportation,mile  ,electric water heater - peak hours,
+76,bags of garbage disposed,per bag,electric water heater - peak hours,
+77,bags of recycling deposited (negative CF),per bag,electric water heater - peak hours,
+78,bags of compost deposited (negative CF),per bag,electric water heater - peak hours,
+79,hazardous or electric items disposed,per item,electric water heater - peak hours,
+80,large items disposed,per item,electric water heater - peak hours,
+81,Household heating => 70F,hour ,electric water heater - off peak hours,
+82,Household heating < 70F,hour ,electric water heater - off peak hours,
+83,Use of heat pump,hour ,electric water heater - off peak hours,
+84,Use of air conditioner ,hour ,electric water heater - off peak hours,
+85,shower - short,activity,electric water heater - off peak hours,0.000199
+86,shower - long (> 3 min),activity,electric water heater - off peak hours,0.000312
+87,bath,activity,electric water heater - off peak hours,0.000368
+88,wash-up,activity,electric water heater - off peak hours,5.5e-05
+89,use of dishwasher,activity,electric water heater - off peak hours,0.000311
+90,use of clothes washer,activity,electric water heater - off peak hours,0.000382
+91,use of clothes dryer ,activity,electric water heater - off peak hours,
+92,use of cooking range,activity,electric water heater - off peak hours,
+93,use of  oven,activity,electric water heater - off peak hours,
+94,use of self-clean feature of electric oven,activity,electric water heater - off peak hours,
+95,Small kitchen applicance in the home,activity,electric water heater - off peak hours,
+96,TV/computer use,hour ,electric water heater - off peak hours,
+97,air travel - large plane,100 miles,electric water heater - off peak hours,
+98,air travel - small  plane (<50 seats) ,100 miles,electric water heater - off peak hours,
+99,car trips- self only,mile  ,electric water heater - off peak hours,
+100,car trips - driver and self,mile  ,electric water heater - off peak hours,
+101,car trips - 2+ people with multiple end points,mile  ,electric water heater - off peak hours,
+102,trips using public ground transportation,mile  ,electric water heater - off peak hours,
+103,bags of garbage disposed,per bag,electric water heater - off peak hours,
+104,bags of recycling deposited (negative CF),per bag,electric water heater - off peak hours,
+105,bags of compost deposited (negative CF),per bag,electric water heater - off peak hours,
+106,hazardous or electric items disposed,per item,electric water heater - off peak hours,
+107,large items disposed,per item,electric water heater - off peak hours,
+108,Household heating => 70F,hour ,gas,
+109,Household heating < 70F,hour ,gas,
+110,Use of heat pump,hour ,gas,
+111,Use of air conditioner ,hour ,gas,
+112,shower - short,activity,gas,
+113,shower - long (> 3 min),activity,gas,
+114,bath,activity,gas,
+115,wash-up,activity,gas,
+116,use of dishwasher,activity,gas,
+117,use of clothes washer,activity,gas,
+118,use of clothes dryer ,activity,gas,
+119,use of cooking range,activity,gas,
+120,use of  oven,activity,gas,
+121,use of self-clean feature of electric oven,activity,gas,
+122,Small kitchen applicance in the home,activity,gas,
+123,TV/computer use,hour ,gas,
+124,air travel - large plane,100 miles,gas,
+125,air travel - small  plane (<50 seats) ,100 miles,gas,
+126,car trips- self only,mile  ,gas,0.000551
+127,car trips - driver and self,mile  ,gas,0.000554
+128,car trips - 2+ people with multiple end points,mile  ,gas,0.000354
+129,trips using public ground transportation,mile  ,gas,0.000276
+130,bags of garbage disposed,per bag,gas,
+131,bags of recycling deposited (negative CF),per bag,gas,
+132,bags of compost deposited (negative CF),per bag,gas,
+133,hazardous or electric items disposed,per item,gas,
+134,large items disposed,per item,gas,
+135,Household heating => 70F,hour ,natural gas,0.000436
+136,Household heating < 70F,hour ,natural gas,0.000872
+137,Use of heat pump,hour ,natural gas,0.001074
+138,Use of air conditioner ,hour ,natural gas,0.000598
+139,shower - short,activity,natural gas,
+140,shower - long (> 3 min),activity,natural gas,
+141,bath,activity,natural gas,
+142,wash-up,activity,natural gas,
+143,use of dishwasher,activity,natural gas,
+144,use of clothes washer,activity,natural gas,0.000154
+145,use of clothes dryer ,activity,natural gas,0.000187
+146,use of cooking range,activity,natural gas,0.000201
+147,use of  oven,activity,natural gas,0.000255
+148,use of self-clean feature of electric oven,activity,natural gas,
+149,Small kitchen applicance in the home,activity,natural gas,
+150,TV/computer use,hour ,natural gas,
+151,air travel - large plane,100 miles,natural gas,
+152,air travel - small  plane (<50 seats) ,100 miles,natural gas,
+153,car trips- self only,mile  ,natural gas,
+154,car trips - driver and self,mile  ,natural gas,
+155,car trips - 2+ people with multiple end points,mile  ,natural gas,
+156,trips using public ground transportation,mile  ,natural gas,
+157,bags of garbage disposed,per bag,natural gas,
+158,bags of recycling deposited (negative CF),per bag,natural gas,
+159,bags of compost deposited (negative CF),per bag,natural gas,
+160,hazardous or electric items disposed,per item,natural gas,
+161,large items disposed,per item,natural gas,
+162,Household heating => 70F,hour ,Jet Fuel,
+163,Household heating < 70F,hour ,Jet Fuel,
+164,Use of heat pump,hour ,Jet Fuel,
+165,Use of air conditioner ,hour ,Jet Fuel,
+166,shower - short,activity,Jet Fuel,
+167,shower - long (> 3 min),activity,Jet Fuel,
+168,bath,activity,Jet Fuel,
+169,wash-up,activity,Jet Fuel,
+170,use of dishwasher,activity,Jet Fuel,
+171,use of clothes washer,activity,Jet Fuel,
+172,use of clothes dryer ,activity,Jet Fuel,
+173,use of cooking range,activity,Jet Fuel,
+174,use of  oven,activity,Jet Fuel,
+175,use of self-clean feature of electric oven,activity,Jet Fuel,
+176,Small kitchen applicance in the home,activity,Jet Fuel,
+177,TV/computer use,hour ,Jet Fuel,
+178,air travel - large plane,100 miles,Jet Fuel,0.0179
+179,air travel - small  plane (<50 seats) ,100 miles,Jet Fuel,0.0408
+180,car trips- self only,mile  ,Jet Fuel,
+181,car trips - driver and self,mile  ,Jet Fuel,
+182,car trips - 2+ people with multiple end points,mile  ,Jet Fuel,
+183,trips using public ground transportation,mile  ,Jet Fuel,
+184,bags of garbage disposed,per bag,Jet Fuel,
+185,bags of recycling deposited (negative CF),per bag,Jet Fuel,
+186,bags of compost deposited (negative CF),per bag,Jet Fuel,
+187,hazardous or electric items disposed,per item,Jet Fuel,
+188,large items disposed,per item,Jet Fuel,
+189,Household heating => 70F,hour ,waste management,
+190,Household heating < 70F,hour ,waste management,
+191,Use of heat pump,hour ,waste management,
+192,Use of air conditioner ,hour ,waste management,
+193,shower - short,activity,waste management,
+194,shower - long (> 3 min),activity,waste management,
+195,bath,activity,waste management,
+196,wash-up,activity,waste management,
+197,use of dishwasher,activity,waste management,
+198,use of clothes washer,activity,waste management,
+199,use of clothes dryer ,activity,waste management,
+200,use of cooking range,activity,waste management,
+201,use of  oven,activity,waste management,
+202,use of self-clean feature of electric oven,activity,waste management,
+203,Small kitchen applicance in the home,activity,waste management,
+204,TV/computer use,hour ,waste management,
+205,air travel - large plane,100 miles,waste management,
+206,air travel - small  plane (<50 seats) ,100 miles,waste management,
+207,car trips- self only,mile  ,waste management,
+208,car trips - driver and self,mile  ,waste management,
+209,car trips - 2+ people with multiple end points,mile  ,waste management,
+210,trips using public ground transportation,mile  ,waste management,
+211,bags of garbage disposed,per bag,waste management,0.0419
+212,bags of recycling deposited (negative CF),per bag,waste management,-0.0419
+213,bags of compost deposited (negative CF),per bag,waste management,-0.0419
+214,hazardous or electric items disposed,per item,waste management,0.0211
+215,large items disposed,per item,waste management,0.0211
+216,Household heating => 70F,hour ,hybrid,
+217,Household heating < 70F,hour ,hybrid,
+218,Use of heat pump,hour ,hybrid,
+219,Use of air conditioner ,hour ,hybrid,
+220,shower - short,activity,hybrid,
+221,shower - long (> 3 min),activity,hybrid,
+222,bath,activity,hybrid,
+223,wash-up,activity,hybrid,
+224,use of dishwasher,activity,hybrid,
+225,use of clothes washer,activity,hybrid,
+226,use of clothes dryer ,activity,hybrid,
+227,use of cooking range,activity,hybrid,
+228,use of  oven,activity,hybrid,
+229,use of self-clean feature of electric oven,activity,hybrid,
+230,Small kitchen applicance in the home,activity,hybrid,
+231,TV/computer use,hour ,hybrid,
+232,air travel - large plane,100 miles,hybrid,
+233,air travel - small  plane (<50 seats) ,100 miles,hybrid,
+234,car trips- self only,mile  ,hybrid,0.000332
+235,car trips - driver and self,mile  ,hybrid,0.000337
+236,car trips - 2+ people with multiple end points,mile  ,hybrid,0.000123
+237,trips using public ground transportation,mile  ,hybrid,
+238,bags of garbage disposed,per bag,hybrid,
+239,bags of recycling deposited (negative CF),per bag,hybrid,
+240,bags of compost deposited (negative CF),per bag,hybrid,
+241,hazardous or electric items disposed,per item,hybrid,
+242,large items disposed,per item,hybrid,
+243,Household heating => 70F,hour ,electric - peak hours,0.00065
+244,Household heating < 70F,hour ,electric - peak hours,0.000923
+245,Use of heat pump,hour ,electric - peak hours,0.001229
+246,Use of air conditioner ,hour ,electric - peak hours,0.00798
+247,shower - short,activity,electric - peak hours,
+248,shower - long (> 3 min),activity,electric - peak hours,
+249,bath,activity,electric - peak hours,
+250,wash-up,activity,electric - peak hours,
+251,use of dishwasher,activity,electric - peak hours,8.4e-05
+252,use of clothes washer,activity,electric - peak hours,0.000102
+253,use of clothes dryer ,activity,electric - peak hours,0.000132
+254,use of cooking range,activity,electric - peak hours,0.000142
+255,use of  oven,activity,electric - peak hours,0.000162
+256,use of self-clean feature of electric oven,activity,electric - peak hours,0.000199
+257,Small kitchen applicance in the home,activity,electric - peak hours,5.4e-05
+258,TV/computer use,hour ,electric - peak hours,2e-06
+259,air travel - large plane,100 miles,electric - peak hours,
+260,air travel - small  plane (<50 seats) ,100 miles,electric - peak hours,
+261,car trips- self only,mile  ,electric - peak hours,0.000192
+262,car trips - driver and self,mile  ,electric - peak hours,0.000199
+263,car trips - 2+ people with multiple end points,mile  ,electric - peak hours,3.2e-05
+264,trips using public ground transportation,mile  ,electric - peak hours,
+265,bags of garbage disposed,per bag,electric - peak hours,
+266,bags of recycling deposited (negative CF),per bag,electric - peak hours,
+267,bags of compost deposited (negative CF),per bag,electric - peak hours,
+268,hazardous or electric items disposed,per item,electric - peak hours,
+269,large items disposed,per item,electric - peak hours,
+270,Household heating => 70F,hour ,electric - off peak hours,0.000542
+271,Household heating < 70F,hour ,electric - off peak hours,0.000901
+272,Use of heat pump,hour ,electric - off peak hours,0.001188
+273,Use of air conditioner ,hour ,electric - off peak hours,0.000721
+274,shower - short,activity,electric - off peak hours,
+275,shower - long (> 3 min),activity,electric - off peak hours,
+276,bath,activity,electric - off peak hours,
+277,wash-up,activity,electric - off peak hours,
+278,use of dishwasher,activity,electric - off peak hours,7.8e-05
+279,use of clothes washer,activity,electric - off peak hours,9.3e-05
+280,use of clothes dryer ,activity,electric - off peak hours,0.000122
+281,use of cooking range,activity,electric - off peak hours,0.000135
+282,use of  oven,activity,electric - off peak hours,0.00015
+283,use of self-clean feature of electric oven,activity,electric - off peak hours,0.000178
+284,Small kitchen applicance in the home,activity,electric - off peak hours,4.1e-05
+285,TV/computer use,hour ,electric - off peak hours,2e-06
+286,air travel - large plane,100 miles,electric - off peak hours,
+287,air travel - small  plane (<50 seats) ,100 miles,electric - off peak hours,
+288,car trips- self only,mile  ,electric - off peak hours,0.000233
+289,car trips - driver and self,mile  ,electric - off peak hours,0.000245
+290,car trips - 2+ people with multiple end points,mile  ,electric - off peak hours,5.5e-05
+291,trips using public ground transportation,mile  ,electric - off peak hours,
+292,bags of garbage disposed,per bag,electric - off peak hours,
+293,bags of recycling deposited (negative CF),per bag,electric - off peak hours,
+294,bags of compost deposited (negative CF),per bag,electric - off peak hours,
+295,hazardous or electric items disposed,per item,electric - off peak hours,
+296,large items disposed,per item,electric - off peak hours,
+297,Household heating => 70F,hour ,Unnamed: 14,
+298,Household heating < 70F,hour ,Unnamed: 14,
+299,Use of heat pump,hour ,Unnamed: 14,
+300,Use of air conditioner ,hour ,Unnamed: 14,
+301,shower - short,activity,Unnamed: 14,
+302,shower - long (> 3 min),activity,Unnamed: 14,
+303,bath,activity,Unnamed: 14,
+304,wash-up,activity,Unnamed: 14,
+305,use of dishwasher,activity,Unnamed: 14,
+306,use of clothes washer,activity,Unnamed: 14,
+307,use of clothes dryer ,activity,Unnamed: 14,
+308,use of cooking range,activity,Unnamed: 14,
+309,use of  oven,activity,Unnamed: 14,
+310,use of self-clean feature of electric oven,activity,Unnamed: 14,
+311,Small kitchen applicance in the home,activity,Unnamed: 14,
+312,TV/computer use,hour ,Unnamed: 14,
+313,air travel - large plane,100 miles,Unnamed: 14,
+314,air travel - small  plane (<50 seats) ,100 miles,Unnamed: 14,
+315,car trips- self only,mile  ,Unnamed: 14,
+316,car trips - driver and self,mile  ,Unnamed: 14,
+317,car trips - 2+ people with multiple end points,mile  ,Unnamed: 14,
+318,trips using public ground transportation,mile  ,Unnamed: 14,
+319,bags of garbage disposed,per bag,Unnamed: 14,
+320,bags of recycling deposited (negative CF),per bag,Unnamed: 14,
+321,bags of compost deposited (negative CF),per bag,Unnamed: 14,
+322,hazardous or electric items disposed,per item,Unnamed: 14,
+323,large items disposed,per item,Unnamed: 14,
+324,Household heating => 70F,hour ,Notes,
+325,Household heating < 70F,hour ,Notes,
+326,Use of heat pump,hour ,Notes,
+327,Use of air conditioner ,hour ,Notes,
+328,shower - short,activity,Notes,
+329,shower - long (> 3 min),activity,Notes,
+330,bath,activity,Notes,
+331,wash-up,activity,Notes,
+332,use of dishwasher,activity,Notes,
+333,use of clothes washer,activity,Notes,
+334,use of clothes dryer ,activity,Notes,
+335,use of cooking range,activity,Notes,
+336,use of  oven,activity,Notes,
+337,use of self-clean feature of electric oven,activity,Notes,
+338,Small kitchen applicance in the home,activity,Notes,
+339,TV/computer use,hour ,Notes,
+340,air travel - large plane,100 miles,Notes,
+341,air travel - small  plane (<50 seats) ,100 miles,Notes,
+342,car trips- self only,mile  ,Notes,
+343,car trips - driver and self,mile  ,Notes,
+344,car trips - 2+ people with multiple end points,mile  ,Notes,
+345,trips using public ground transportation,mile  ,Notes,
+346,bags of garbage disposed,per bag,Notes,
+347,bags of recycling deposited (negative CF),per bag,Notes,
+348,bags of compost deposited (negative CF),per bag,Notes,
+349,hazardous or electric items disposed,per item,Notes,
+350,large items disposed,per item,Notes,
