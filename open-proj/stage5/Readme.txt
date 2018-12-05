@@ -9,7 +9,7 @@ python3 Individual_Clustering.py
 python3 validation_individuals.py
 python3 validation_resources.py
 
-The datasets have also been submitted alon with the code and the validation has 
+The datasets have also been submitted along with the code and the validation has 
 been done on the datasets.Thus the dataset has been handled by dropping the columns with
 NaN values and validation has been done on it.The performance of the Machine Learning
 methods for the datasets have been analyzed.
