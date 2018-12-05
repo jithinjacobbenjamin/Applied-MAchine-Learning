@@ -1,0 +1,77 @@
+,Activity,Per,variable,value
+4,shower - short,activity,solar powered  water heater,1.2e-05
+5,shower - long (> 3 min),activity,solar powered  water heater,1.7e-05
+6,bath,activity,solar powered  water heater,8.8e-05
+7,wash-up,activity,solar powered  water heater,4e-06
+8,use of dishwasher,activity,solar powered  water heater,2.5e-05
+9,use of clothes washer,activity,solar powered  water heater,3.3e-05
+31,shower - short,activity,gas water heater,0.000102
+32,shower - long (> 3 min),activity,gas water heater,0.000149
+33,bath,activity,gas water heater,0.000254
+34,wash-up,activity,gas water heater,4.2e-05
+35,use of dishwasher,activity,gas water heater,0.000165
+36,use of clothes washer,activity,gas water heater,0.000199
+58,shower - short,activity,electric water heater - peak hours,0.000232
+59,shower - long (> 3 min),activity,electric water heater - peak hours,0.000354
+60,bath,activity,electric water heater - peak hours,0.000412
+61,wash-up,activity,electric water heater - peak hours,6.7e-05
+62,use of dishwasher,activity,electric water heater - peak hours,0.000398
+63,use of clothes washer,activity,electric water heater - peak hours,0.000433
+85,shower - short,activity,electric water heater - off peak hours,0.000199
+86,shower - long (> 3 min),activity,electric water heater - off peak hours,0.000312
+87,bath,activity,electric water heater - off peak hours,0.000368
+88,wash-up,activity,electric water heater - off peak hours,5.5e-05
+89,use of dishwasher,activity,electric water heater - off peak hours,0.000311
+90,use of clothes washer,activity,electric water heater - off peak hours,0.000382
+126,car trips- self only,mile  ,gas,0.000551
+127,car trips - driver and self,mile  ,gas,0.000554
+128,car trips - 2+ people with multiple end points,mile  ,gas,0.000354
+129,trips using public ground transportation,mile  ,gas,0.000276
+135,Household heating => 70F,hour ,natural gas,0.000436
+136,Household heating < 70F,hour ,natural gas,0.000872
+137,Use of heat pump,hour ,natural gas,0.001074
+138,Use of air conditioner ,hour ,natural gas,0.000598
+144,use of clothes washer,activity,natural gas,0.000154
+145,use of clothes dryer ,activity,natural gas,0.000187
+146,use of cooking range,activity,natural gas,0.000201
+147,use of  oven,activity,natural gas,0.000255
+178,air travel - large plane,100 miles,Jet Fuel,0.0179
+179,air travel - small  plane (<50 seats) ,100 miles,Jet Fuel,0.0408
+211,bags of garbage disposed,per bag,waste management,0.0419
+212,bags of recycling deposited (negative CF),per bag,waste management,-0.0419
+213,bags of compost deposited (negative CF),per bag,waste management,-0.0419
+214,hazardous or electric items disposed,per item,waste management,0.0211
+215,large items disposed,per item,waste management,0.0211
+234,car trips- self only,mile  ,hybrid,0.000332
+235,car trips - driver and self,mile  ,hybrid,0.000337
+236,car trips - 2+ people with multiple end points,mile  ,hybrid,0.000123
+243,Household heating => 70F,hour ,electric - peak hours,0.00065
+244,Household heating < 70F,hour ,electric - peak hours,0.000923
+245,Use of heat pump,hour ,electric - peak hours,0.001229
+246,Use of air conditioner ,hour ,electric - peak hours,0.00798
+251,use of dishwasher,activity,electric - peak hours,8.4e-05
+252,use of clothes washer,activity,electric - peak hours,0.000102
+253,use of clothes dryer ,activity,electric - peak hours,0.000132
+254,use of cooking range,activity,electric - peak hours,0.000142
+255,use of  oven,activity,electric - peak hours,0.000162
+256,use of self-clean feature of electric oven,activity,electric - peak hours,0.000199
+257,Small kitchen applicance in the home,activity,electric - peak hours,5.4e-05
+258,TV/computer use,hour ,electric - peak hours,2e-06
+261,car trips- self only,mile  ,electric - peak hours,0.000192
+262,car trips - driver and self,mile  ,electric - peak hours,0.000199
+263,car trips - 2+ people with multiple end points,mile  ,electric - peak hours,3.2e-05
+270,Household heating => 70F,hour ,electric - off peak hours,0.000542
+271,Household heating < 70F,hour ,electric - off peak hours,0.000901
+272,Use of heat pump,hour ,electric - off peak hours,0.001188
+273,Use of air conditioner ,hour ,electric - off peak hours,0.000721
+278,use of dishwasher,activity,electric - off peak hours,7.8e-05
+279,use of clothes washer,activity,electric - off peak hours,9.3e-05
+280,use of clothes dryer ,activity,electric - off peak hours,0.000122
+281,use of cooking range,activity,electric - off peak hours,0.000135
+282,use of  oven,activity,electric - off peak hours,0.00015
+283,use of self-clean feature of electric oven,activity,electric - off peak hours,0.000178
+284,Small kitchen applicance in the home,activity,electric - off peak hours,4.1e-05
+285,TV/computer use,hour ,electric - off peak hours,2e-06
+288,car trips- self only,mile  ,electric - off peak hours,0.000233
+289,car trips - driver and self,mile  ,electric - off peak hours,0.000245
+290,car trips - 2+ people with multiple end points,mile  ,electric - off peak hours,5.5e-05
